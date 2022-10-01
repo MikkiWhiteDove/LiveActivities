@@ -1,5 +1,8 @@
 # LiveActivities
 
+---
+- Technology stack: SwiftUI, ActivityKit, WidgetKit
+---
 
 ## Live Activities Widget
 
